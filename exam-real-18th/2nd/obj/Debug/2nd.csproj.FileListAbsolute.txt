@@ -1,0 +1,8 @@
+C:\Temp\SoftUni\exam-18th\2nd\bin\Debug\2nd.exe.config
+C:\Temp\SoftUni\exam-18th\2nd\bin\Debug\2nd.exe
+C:\Temp\SoftUni\exam-18th\2nd\bin\Debug\2nd.pdb
+C:\Temp\SoftUni\exam-18th\2nd\obj\Debug\2nd.exe
+C:\Temp\SoftUni\exam-18th\2nd\obj\Debug\2nd.pdb
+F:\SoftUni\exam-real-18th\2nd\bin\Debug\2nd.exe.config
+F:\SoftUni\exam-real-18th\2nd\obj\Debug\2nd.exe
+F:\SoftUni\exam-real-18th\2nd\obj\Debug\2nd.pdb

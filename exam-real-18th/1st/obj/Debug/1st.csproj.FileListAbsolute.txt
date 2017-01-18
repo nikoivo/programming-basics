@@ -1,0 +1,9 @@
+C:\Temp\SoftUni\exam-18th\1st\bin\Debug\1st.exe.config
+C:\Temp\SoftUni\exam-18th\1st\obj\Debug\1st.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-18th\1st\bin\Debug\1st.exe
+C:\Temp\SoftUni\exam-18th\1st\bin\Debug\1st.pdb
+C:\Temp\SoftUni\exam-18th\1st\obj\Debug\1st.exe
+C:\Temp\SoftUni\exam-18th\1st\obj\Debug\1st.pdb
+F:\SoftUni\exam-real-18th\1st\bin\Debug\1st.exe.config
+F:\SoftUni\exam-real-18th\1st\obj\Debug\1st.exe
+F:\SoftUni\exam-real-18th\1st\obj\Debug\1st.pdb

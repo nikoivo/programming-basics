@@ -1,0 +1,8 @@
+C:\Temp\SoftUni\exam-18th\4th\bin\Debug\4th.exe.config
+C:\Temp\SoftUni\exam-18th\4th\bin\Debug\4th.exe
+C:\Temp\SoftUni\exam-18th\4th\bin\Debug\4th.pdb
+C:\Temp\SoftUni\exam-18th\4th\obj\Debug\4th.exe
+C:\Temp\SoftUni\exam-18th\4th\obj\Debug\4th.pdb
+F:\SoftUni\exam-real-18th\4th\bin\Debug\4th.exe.config
+F:\SoftUni\exam-real-18th\4th\obj\Debug\4th.exe
+F:\SoftUni\exam-real-18th\4th\obj\Debug\4th.pdb

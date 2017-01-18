@@ -1,0 +1,9 @@
+C:\Temp\SoftUni\exam-18th\3rd\bin\Debug\3rd.exe.config
+C:\Temp\SoftUni\exam-18th\3rd\bin\Debug\3rd.exe
+C:\Temp\SoftUni\exam-18th\3rd\bin\Debug\3rd.pdb
+C:\Temp\SoftUni\exam-18th\3rd\obj\Debug\3rd.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-18th\3rd\obj\Debug\3rd.exe
+C:\Temp\SoftUni\exam-18th\3rd\obj\Debug\3rd.pdb
+F:\SoftUni\exam-real-18th\3rd\bin\Debug\3rd.exe.config
+F:\SoftUni\exam-real-18th\3rd\obj\Debug\3rd.exe
+F:\SoftUni\exam-real-18th\3rd\obj\Debug\3rd.pdb

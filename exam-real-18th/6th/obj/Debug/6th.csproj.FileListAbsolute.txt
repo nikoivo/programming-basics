@@ -1,0 +1,11 @@
+C:\Temp\SoftUni\exam-18th\6th\bin\Debug\6th.exe.config
+C:\Temp\SoftUni\exam-18th\6th\bin\Debug\6th.exe
+C:\Temp\SoftUni\exam-18th\6th\bin\Debug\6th.pdb
+C:\Temp\SoftUni\exam-18th\6th\obj\Debug\6th.exe
+C:\Temp\SoftUni\exam-18th\6th\obj\Debug\6th.pdb
+F:\SoftUni\exam-real-18th\6th\bin\Debug\6th.exe.config
+F:\SoftUni\exam-real-18th\6th\obj\Debug\6th.exe
+F:\SoftUni\exam-real-18th\6th\obj\Debug\6th.pdb
+F:\SoftUni\exam-real-18th\6th\bin\Debug\6th.exe
+F:\SoftUni\exam-real-18th\6th\bin\Debug\6th.pdb
+F:\SoftUni\exam-real-18th\6th\obj\Debug\6th.csprojResolveAssemblyReference.cache
