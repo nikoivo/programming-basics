@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-5th\Fort\bin\Debug\Fort.exe.config
+C:\Temp\SoftUni\exam-5th\Fort\bin\Debug\Fort.exe
+C:\Temp\SoftUni\exam-5th\Fort\bin\Debug\Fort.pdb
+C:\Temp\SoftUni\exam-5th\Fort\obj\Debug\Fort.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-5th\Fort\obj\Debug\Fort.exe
+C:\Temp\SoftUni\exam-5th\Fort\obj\Debug\Fort.pdb

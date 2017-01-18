@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-3rd\School-Holiday\bin\Debug\School-Holiday.exe.config
+C:\Temp\SoftUni\exam-3rd\School-Holiday\bin\Debug\School-Holiday.exe
+C:\Temp\SoftUni\exam-3rd\School-Holiday\bin\Debug\School-Holiday.pdb
+C:\Temp\SoftUni\exam-3rd\School-Holiday\obj\Debug\School-Holiday.exe
+C:\Temp\SoftUni\exam-3rd\School-Holiday\obj\Debug\School-Holiday.pdb

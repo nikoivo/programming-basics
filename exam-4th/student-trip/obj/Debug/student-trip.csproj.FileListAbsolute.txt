@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-4th\student-trip\bin\Debug\student-trip.exe.config
+C:\Temp\SoftUni\exam-4th\student-trip\bin\Debug\student-trip.exe
+C:\Temp\SoftUni\exam-4th\student-trip\bin\Debug\student-trip.pdb
+C:\Temp\SoftUni\exam-4th\student-trip\obj\Debug\student-trip.exe
+C:\Temp\SoftUni\exam-4th\student-trip\obj\Debug\student-trip.pdb

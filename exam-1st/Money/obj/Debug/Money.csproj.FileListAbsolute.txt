@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-1st\Money\bin\Debug\Money.exe.config
+C:\Temp\SoftUni\exam-1st\Money\bin\Debug\Money.exe
+C:\Temp\SoftUni\exam-1st\Money\bin\Debug\Money.pdb
+C:\Temp\SoftUni\exam-1st\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-1st\Money\obj\Debug\Money.exe
+C:\Temp\SoftUni\exam-1st\Money\obj\Debug\Money.pdb

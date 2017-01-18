@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-3rd\number-operations\bin\Debug\number-operations.exe.config
+C:\Temp\SoftUni\exam-3rd\number-operations\bin\Debug\number-operations.exe
+C:\Temp\SoftUni\exam-3rd\number-operations\bin\Debug\number-operations.pdb
+C:\Temp\SoftUni\exam-3rd\number-operations\obj\Debug\number-operations.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-3rd\number-operations\obj\Debug\number-operations.exe
+C:\Temp\SoftUni\exam-3rd\number-operations\obj\Debug\number-operations.pdb

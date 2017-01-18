@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-1st\class-room\bin\Debug\class-room.exe.config
+C:\Temp\SoftUni\exam-1st\class-room\bin\Debug\class-room.exe
+C:\Temp\SoftUni\exam-1st\class-room\bin\Debug\class-room.pdb
+C:\Temp\SoftUni\exam-1st\class-room\obj\Debug\class-room.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-1st\class-room\obj\Debug\class-room.exe
+C:\Temp\SoftUni\exam-1st\class-room\obj\Debug\class-room.pdb

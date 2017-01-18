@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-4th\smart-lily\bin\Debug\smart-lily.exe.config
+C:\Temp\SoftUni\exam-4th\smart-lily\bin\Debug\smart-lily.exe
+C:\Temp\SoftUni\exam-4th\smart-lily\bin\Debug\smart-lily.pdb
+C:\Temp\SoftUni\exam-4th\smart-lily\obj\Debug\smart-lily.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-4th\smart-lily\obj\Debug\smart-lily.exe
+C:\Temp\SoftUni\exam-4th\smart-lily\obj\Debug\smart-lily.pdb

@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-5th\Fox\bin\Debug\Fox.exe.config
+C:\Temp\SoftUni\exam-5th\Fox\bin\Debug\Fox.exe
+C:\Temp\SoftUni\exam-5th\Fox\bin\Debug\Fox.pdb
+C:\Temp\SoftUni\exam-5th\Fox\obj\Debug\Fox.exe
+C:\Temp\SoftUni\exam-5th\Fox\obj\Debug\Fox.pdb

@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-1st\fish-market\bin\Debug\fish-market.exe.config
+C:\Temp\SoftUni\exam-1st\fish-market\bin\Debug\fish-market.exe
+C:\Temp\SoftUni\exam-1st\fish-market\bin\Debug\fish-market.pdb
+C:\Temp\SoftUni\exam-1st\fish-market\obj\Debug\fish-market.exe
+C:\Temp\SoftUni\exam-1st\fish-market\obj\Debug\fish-market.pdb

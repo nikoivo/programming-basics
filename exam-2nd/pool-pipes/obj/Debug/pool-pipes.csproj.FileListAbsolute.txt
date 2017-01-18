@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-2nd\pool-pipes\bin\Debug\pool-pipes.exe.config
+C:\Temp\SoftUni\exam-2nd\pool-pipes\bin\Debug\pool-pipes.exe
+C:\Temp\SoftUni\exam-2nd\pool-pipes\bin\Debug\pool-pipes.pdb
+C:\Temp\SoftUni\exam-2nd\pool-pipes\obj\Debug\pool-pipes.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-2nd\pool-pipes\obj\Debug\pool-pipes.exe
+C:\Temp\SoftUni\exam-2nd\pool-pipes\obj\Debug\pool-pipes.pdb

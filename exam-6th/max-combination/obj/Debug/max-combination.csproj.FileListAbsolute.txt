@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-6th\max-combination\bin\Debug\max-combination.exe.config
+C:\Temp\SoftUni\exam-6th\max-combination\bin\Debug\max-combination.exe
+C:\Temp\SoftUni\exam-6th\max-combination\bin\Debug\max-combination.pdb
+C:\Temp\SoftUni\exam-6th\max-combination\obj\Debug\max-combination.exe
+C:\Temp\SoftUni\exam-6th\max-combination\obj\Debug\max-combination.pdb

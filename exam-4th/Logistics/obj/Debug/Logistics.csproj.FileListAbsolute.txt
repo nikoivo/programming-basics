@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-4th\Logistics\bin\Debug\Logistics.exe.config
+C:\Temp\SoftUni\exam-4th\Logistics\bin\Debug\Logistics.exe
+C:\Temp\SoftUni\exam-4th\Logistics\bin\Debug\Logistics.pdb
+C:\Temp\SoftUni\exam-4th\Logistics\obj\Debug\Logistics.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-4th\Logistics\obj\Debug\Logistics.exe
+C:\Temp\SoftUni\exam-4th\Logistics\obj\Debug\Logistics.pdb

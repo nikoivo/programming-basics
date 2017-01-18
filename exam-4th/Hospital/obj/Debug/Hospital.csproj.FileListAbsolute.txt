@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-4th\Hospital\bin\Debug\Hospital.exe.config
+C:\Temp\SoftUni\exam-4th\Hospital\bin\Debug\Hospital.exe
+C:\Temp\SoftUni\exam-4th\Hospital\bin\Debug\Hospital.pdb
+C:\Temp\SoftUni\exam-4th\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-4th\Hospital\obj\Debug\Hospital.exe
+C:\Temp\SoftUni\exam-4th\Hospital\obj\Debug\Hospital.pdb

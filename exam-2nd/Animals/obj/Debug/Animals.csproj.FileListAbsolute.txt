@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-2nd\Animals\bin\Debug\Animals.exe.config
+C:\Temp\SoftUni\exam-2nd\Animals\bin\Debug\Animals.exe
+C:\Temp\SoftUni\exam-2nd\Animals\bin\Debug\Animals.pdb
+C:\Temp\SoftUni\exam-2nd\Animals\obj\Debug\Animals.exe
+C:\Temp\SoftUni\exam-2nd\Animals\obj\Debug\Animals.pdb

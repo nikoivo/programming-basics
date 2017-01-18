@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-6th\pokemon-battles\bin\Debug\pokemon-battles.exe.config
+C:\Temp\SoftUni\exam-6th\pokemon-battles\bin\Debug\pokemon-battles.exe
+C:\Temp\SoftUni\exam-6th\pokemon-battles\bin\Debug\pokemon-battles.pdb
+C:\Temp\SoftUni\exam-6th\pokemon-battles\obj\Debug\pokemon-battles.exe
+C:\Temp\SoftUni\exam-6th\pokemon-battles\obj\Debug\pokemon-battles.pdb

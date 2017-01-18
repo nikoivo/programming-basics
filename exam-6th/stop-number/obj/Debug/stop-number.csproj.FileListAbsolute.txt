@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-6th\stop-number\bin\Debug\stop-number.exe.config
+C:\Temp\SoftUni\exam-6th\stop-number\bin\Debug\stop-number.exe
+C:\Temp\SoftUni\exam-6th\stop-number\bin\Debug\stop-number.pdb
+C:\Temp\SoftUni\exam-6th\stop-number\obj\Debug\stop-number.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-6th\stop-number\obj\Debug\stop-number.exe
+C:\Temp\SoftUni\exam-6th\stop-number\obj\Debug\stop-number.pdb

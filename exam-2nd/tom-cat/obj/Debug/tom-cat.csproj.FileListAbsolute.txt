@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-2nd\tom-cat\bin\Debug\tom-cat.exe.config
+C:\Temp\SoftUni\exam-2nd\tom-cat\bin\Debug\tom-cat.exe
+C:\Temp\SoftUni\exam-2nd\tom-cat\bin\Debug\tom-cat.pdb
+C:\Temp\SoftUni\exam-2nd\tom-cat\obj\Debug\tom-cat.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-2nd\tom-cat\obj\Debug\tom-cat.exe
+C:\Temp\SoftUni\exam-2nd\tom-cat\obj\Debug\tom-cat.pdb

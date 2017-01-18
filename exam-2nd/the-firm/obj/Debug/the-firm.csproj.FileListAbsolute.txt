@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-2nd\the-firm\bin\Debug\the-firm.exe.config
+C:\Temp\SoftUni\exam-2nd\the-firm\bin\Debug\the-firm.exe
+C:\Temp\SoftUni\exam-2nd\the-firm\bin\Debug\the-firm.pdb
+C:\Temp\SoftUni\exam-2nd\the-firm\obj\Debug\the-firm.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-2nd\the-firm\obj\Debug\the-firm.exe
+C:\Temp\SoftUni\exam-2nd\the-firm\obj\Debug\the-firm.pdb

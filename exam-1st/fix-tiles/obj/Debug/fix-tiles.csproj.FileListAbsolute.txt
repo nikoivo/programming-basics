@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-1st\fix-tiles\bin\Debug\fix-tiles.exe.config
+C:\Temp\SoftUni\exam-1st\fix-tiles\bin\Debug\fix-tiles.exe
+C:\Temp\SoftUni\exam-1st\fix-tiles\bin\Debug\fix-tiles.pdb
+C:\Temp\SoftUni\exam-1st\fix-tiles\obj\Debug\fix-tiles.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-1st\fix-tiles\obj\Debug\fix-tiles.exe
+C:\Temp\SoftUni\exam-1st\fix-tiles\obj\Debug\fix-tiles.pdb

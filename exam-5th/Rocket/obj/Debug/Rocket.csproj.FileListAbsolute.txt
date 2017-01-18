@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-5th\Rocket\bin\Debug\Rocket.exe.config
+C:\Temp\SoftUni\exam-5th\Rocket\bin\Debug\Rocket.exe
+C:\Temp\SoftUni\exam-5th\Rocket\bin\Debug\Rocket.pdb
+C:\Temp\SoftUni\exam-5th\Rocket\obj\Debug\Rocket.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-5th\Rocket\obj\Debug\Rocket.exe
+C:\Temp\SoftUni\exam-5th\Rocket\obj\Debug\Rocket.pdb

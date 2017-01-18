@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-4th\back-to-the-past\bin\Debug\back-to-the-past.exe.config
+C:\Temp\SoftUni\exam-4th\back-to-the-past\bin\Debug\back-to-the-past.exe
+C:\Temp\SoftUni\exam-4th\back-to-the-past\bin\Debug\back-to-the-past.pdb
+C:\Temp\SoftUni\exam-4th\back-to-the-past\obj\Debug\back-to-the-past.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-4th\back-to-the-past\obj\Debug\back-to-the-past.exe
+C:\Temp\SoftUni\exam-4th\back-to-the-past\obj\Debug\back-to-the-past.pdb

@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-2nd\Transportation\bin\Debug\Transportation.exe.config
+C:\Temp\SoftUni\exam-2nd\Transportation\bin\Debug\Transportation.exe
+C:\Temp\SoftUni\exam-2nd\Transportation\bin\Debug\Transportation.pdb
+C:\Temp\SoftUni\exam-2nd\Transportation\obj\Debug\Transportation.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-2nd\Transportation\obj\Debug\Transportation.exe
+C:\Temp\SoftUni\exam-2nd\Transportation\obj\Debug\Transportation.pdb

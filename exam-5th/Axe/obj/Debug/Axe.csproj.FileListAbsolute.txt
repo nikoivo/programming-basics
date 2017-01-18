@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-5th\Axe\bin\Debug\Axe.exe.config
+C:\Temp\SoftUni\exam-5th\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-5th\Axe\bin\Debug\Axe.exe
+C:\Temp\SoftUni\exam-5th\Axe\bin\Debug\Axe.pdb
+C:\Temp\SoftUni\exam-5th\Axe\obj\Debug\Axe.exe
+C:\Temp\SoftUni\exam-5th\Axe\obj\Debug\Axe.pdb

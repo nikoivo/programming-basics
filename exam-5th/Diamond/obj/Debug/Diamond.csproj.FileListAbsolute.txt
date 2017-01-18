@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-5th\Diamond\bin\Debug\Diamond.exe.config
+C:\Temp\SoftUni\exam-5th\Diamond\bin\Debug\Diamond.exe
+C:\Temp\SoftUni\exam-5th\Diamond\bin\Debug\Diamond.pdb
+C:\Temp\SoftUni\exam-5th\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-5th\Diamond\obj\Debug\Diamond.exe
+C:\Temp\SoftUni\exam-5th\Diamond\obj\Debug\Diamond.pdb

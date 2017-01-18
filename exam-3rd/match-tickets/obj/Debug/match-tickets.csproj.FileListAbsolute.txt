@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-3rd\match-tickets\bin\Debug\match-tickets.exe.config
+C:\Temp\SoftUni\exam-3rd\match-tickets\bin\Debug\match-tickets.exe
+C:\Temp\SoftUni\exam-3rd\match-tickets\bin\Debug\match-tickets.pdb
+C:\Temp\SoftUni\exam-3rd\match-tickets\obj\Debug\match-tickets.exe
+C:\Temp\SoftUni\exam-3rd\match-tickets\obj\Debug\match-tickets.pdb

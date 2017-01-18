@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-1st\coder-Ivan\bin\Debug\coder-Ivan.exe.config
+C:\Temp\SoftUni\exam-1st\coder-Ivan\bin\Debug\coder-Ivan.exe
+C:\Temp\SoftUni\exam-1st\coder-Ivan\bin\Debug\coder-Ivan.pdb
+C:\Temp\SoftUni\exam-1st\coder-Ivan\obj\Debug\coder-Ivan.exe
+C:\Temp\SoftUni\exam-1st\coder-Ivan\obj\Debug\coder-Ivan.pdb

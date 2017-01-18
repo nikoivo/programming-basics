@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-5th\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Temp\SoftUni\exam-5th\Butterfly\bin\Debug\Butterfly.exe
+C:\Temp\SoftUni\exam-5th\Butterfly\bin\Debug\Butterfly.pdb
+C:\Temp\SoftUni\exam-5th\Butterfly\obj\Debug\Butterfly.exe
+C:\Temp\SoftUni\exam-5th\Butterfly\obj\Debug\Butterfly.pdb

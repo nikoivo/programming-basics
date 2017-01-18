@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-3rd\exam-time\bin\Debug\exam-time.exe.config
+C:\Temp\SoftUni\exam-3rd\exam-time\obj\Debug\exam-time.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-3rd\exam-time\bin\Debug\exam-time.exe
+C:\Temp\SoftUni\exam-3rd\exam-time\bin\Debug\exam-time.pdb
+C:\Temp\SoftUni\exam-3rd\exam-time\obj\Debug\exam-time.exe
+C:\Temp\SoftUni\exam-3rd\exam-time\obj\Debug\exam-time.pdb

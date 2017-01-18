@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-3rd\vacation-trip\bin\Debug\vacation-trip.exe.config
+C:\Temp\SoftUni\exam-3rd\vacation-trip\bin\Debug\vacation-trip.exe
+C:\Temp\SoftUni\exam-3rd\vacation-trip\bin\Debug\vacation-trip.pdb
+C:\Temp\SoftUni\exam-3rd\vacation-trip\obj\Debug\vacation-trip.exe
+C:\Temp\SoftUni\exam-3rd\vacation-trip\obj\Debug\vacation-trip.pdb
+C:\Temp\SoftUni\exam-3rd\vacation-trip\obj\Debug\vacation-trip.csprojResolveAssemblyReference.cache

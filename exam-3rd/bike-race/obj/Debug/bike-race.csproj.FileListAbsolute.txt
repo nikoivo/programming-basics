@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-3rd\bike-race\bin\Debug\bike-race.exe.config
+C:\Temp\SoftUni\exam-3rd\bike-race\bin\Debug\bike-race.exe
+C:\Temp\SoftUni\exam-3rd\bike-race\bin\Debug\bike-race.pdb
+C:\Temp\SoftUni\exam-3rd\bike-race\obj\Debug\bike-race.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-3rd\bike-race\obj\Debug\bike-race.exe
+C:\Temp\SoftUni\exam-3rd\bike-race\obj\Debug\bike-race.pdb

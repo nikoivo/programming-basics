@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-1st\vegetable-market\bin\Debug\vegetable-market.exe.config
+C:\Temp\SoftUni\exam-1st\vegetable-market\bin\Debug\vegetable-market.exe
+C:\Temp\SoftUni\exam-1st\vegetable-market\bin\Debug\vegetable-market.pdb
+C:\Temp\SoftUni\exam-1st\vegetable-market\obj\Debug\vegetable-market.exe
+C:\Temp\SoftUni\exam-1st\vegetable-market\obj\Debug\vegetable-market.pdb

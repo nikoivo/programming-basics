@@ -1,0 +1,12 @@
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\bin\Debug\hotel-room.exe.config
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\bin\Debug\hotel-room.exe
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\bin\Debug\hotel-room.pdb
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\obj\Debug\hotel-room.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\obj\Debug\hotel-room.exe
+C:\Temp\SoftUni\3. Simple-Conditions\exam-3rd\hotel-room\obj\Debug\hotel-room.pdb
+C:\Temp\SoftUni\exam-3rd\hotel-room\bin\Debug\hotel-room.exe.config
+C:\Temp\SoftUni\exam-3rd\hotel-room\obj\Debug\hotel-room.exe
+C:\Temp\SoftUni\exam-3rd\hotel-room\obj\Debug\hotel-room.pdb
+C:\Temp\SoftUni\exam-3rd\hotel-room\bin\Debug\hotel-room.exe
+C:\Temp\SoftUni\exam-3rd\hotel-room\bin\Debug\hotel-room.pdb
+C:\Temp\SoftUni\exam-3rd\hotel-room\obj\Debug\hotel-room.csprojResolveAssemblyReference.cache

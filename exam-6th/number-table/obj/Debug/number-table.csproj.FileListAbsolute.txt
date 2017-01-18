@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-6th\number-table\bin\Debug\number-table.exe.config
+C:\Temp\SoftUni\exam-6th\number-table\bin\Debug\number-table.exe
+C:\Temp\SoftUni\exam-6th\number-table\bin\Debug\number-table.pdb
+C:\Temp\SoftUni\exam-6th\number-table\obj\Debug\number-table.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-6th\number-table\obj\Debug\number-table.exe
+C:\Temp\SoftUni\exam-6th\number-table\obj\Debug\number-table.pdb

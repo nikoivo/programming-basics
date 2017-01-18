@@ -1,0 +1,5 @@
+C:\Temp\SoftUni\exam-5th\stop-sign\bin\Debug\stop-sign.exe.config
+C:\Temp\SoftUni\exam-5th\stop-sign\bin\Debug\stop-sign.exe
+C:\Temp\SoftUni\exam-5th\stop-sign\bin\Debug\stop-sign.pdb
+C:\Temp\SoftUni\exam-5th\stop-sign\obj\Debug\stop-sign.exe
+C:\Temp\SoftUni\exam-5th\stop-sign\obj\Debug\stop-sign.pdb

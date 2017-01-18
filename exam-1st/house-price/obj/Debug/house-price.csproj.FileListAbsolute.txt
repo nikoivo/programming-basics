@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-1st\house-price\bin\Debug\house-price.exe.config
+C:\Temp\SoftUni\exam-1st\house-price\bin\Debug\house-price.exe
+C:\Temp\SoftUni\exam-1st\house-price\bin\Debug\house-price.pdb
+C:\Temp\SoftUni\exam-1st\house-price\obj\Debug\house-price.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-1st\house-price\obj\Debug\house-price.exe
+C:\Temp\SoftUni\exam-1st\house-price\obj\Debug\house-price.pdb

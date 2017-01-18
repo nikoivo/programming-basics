@@ -1,0 +1,6 @@
+C:\Temp\SoftUni\exam-6th\magic-numbers\bin\Debug\magic-numbers.exe.config
+C:\Temp\SoftUni\exam-6th\magic-numbers\bin\Debug\magic-numbers.exe
+C:\Temp\SoftUni\exam-6th\magic-numbers\bin\Debug\magic-numbers.pdb
+C:\Temp\SoftUni\exam-6th\magic-numbers\obj\Debug\magic-numbers.csprojResolveAssemblyReference.cache
+C:\Temp\SoftUni\exam-6th\magic-numbers\obj\Debug\magic-numbers.exe
+C:\Temp\SoftUni\exam-6th\magic-numbers\obj\Debug\magic-numbers.pdb
